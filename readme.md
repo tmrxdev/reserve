@@ -1,5 +1,5 @@
 ![unboundlogo](https://github.com/tmrxdev/reserve/blob/main/unboundlogo.png?raw=true)
-## Unbound
+**Unbound**
 # Username Reservation System
 Easy username reservation system for the unbound social platform
 
